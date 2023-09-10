@@ -1,0 +1,7 @@
+aiogram~=3.0.0b7
+psycopg2-binary~=2.9.7  
+pydantic~=2.3.0
+pydantic-settings~=2.0.3 
+python-jose~=3.3.0 
+python-multipart~=0.0.6  
+sqlalchemy~=2.0.20  
